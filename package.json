@@ -1,0 +1,20 @@
+{
+  "name": "zadanie_13_8",
+  "version": "1.0.0",
+  "description": "Web Developer Bootcamp Kodilla node.js server ;-)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProjectKodilla/zadanie_13_8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProjectKodilla/zadanie_13_8/issues"
+  },
+  "homepage": "https://github.com/ProjectKodilla/zadanie_13_8#readme"
+}
